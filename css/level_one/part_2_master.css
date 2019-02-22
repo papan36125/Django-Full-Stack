@@ -1,0 +1,23 @@
+body{
+  /* background-color: gray; */
+  background: url(Experiences_Beach.jpg);
+  background-repeat: repeat;
+
+}
+
+div{
+  background-color: blue;
+  border-width: 2px;
+  border-style: double;
+  border-color: orange;
+}
+
+p{
+  color: yellow;
+
+}
+
+span{
+  background-color: red;
+  color: black;
+}
